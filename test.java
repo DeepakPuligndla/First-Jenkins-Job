@@ -1,6 +1,6 @@
-import org.junit.runner.JUnitCore;
-import org.junit.runner.Result;
-import org.junit.runner.notification.Failure;
+import junit.runner.JUnitCore;
+import junit.runner.Result;
+import junit.runner.notification.Failure;
 
 public class addition
 {

@@ -1,6 +1,6 @@
 
-import static org.junit.Assertion.assertEquals;
-import org.junit.Test;
+import static junit.Assertion.assertEquals;
+import junit.Test;
 
 public class Addition
 {
